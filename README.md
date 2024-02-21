@@ -13,10 +13,14 @@ Follow the steps below to get your raspberry pi setup.
 ### Raspberry Pi Imager
 
 Use the Raspberry Pi imager to flash the image onto either an Micro-SD card, USB flash drive, or SSD.
+![imager](/pictures/imager.png)
 
 First select Choose Device, and select the Raspberry Pi you have.
+![Choose Device](/pictures/RPi%20Device.png)
 
 
+Then select Raspberry Pi OS Lite (64-Bit)
+![RPi OS](/pictures/Raspberry%20Pi%20OS%20Lite%20(64Bit).png)
 
 Then choose your storage media, select next and flash!
 
