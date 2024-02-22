@@ -94,6 +94,13 @@ You can run the script or follow the steps in the script
 
 AngryOxide can be used for wardriving.
 
+You will need to install a few extra dependencies in order to take full advantage of it.
+
+1. GPSD
+2. Kismet
+
+
+**NOTE** - [GPSD troubleshooting](https://stackoverflow.com/questions/29333424/gpsd-not-getting-a-good-fix)
 
 Using the scripts in this repository you can setup headless wardriving on Boot.
 

@@ -33,6 +33,10 @@ cat << EOF > ~/wardrive.service
 EOF
 }
 
+sudo apt install gpsd
+
+sudo service gpsd start
+
 echo "Enter your wireless device name (default: wlan1):"
 read -r WLAN_DEVICE
 WLAN_DEVICE="${WLAN_DEVICE:-wlan1}"
